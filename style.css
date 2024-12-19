@@ -1,0 +1,337 @@
+.container {
+    max-width: 1900px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+.head {
+    font-weight: 1000;
+    color: white;
+    font-size: 30px;
+    margin-top: -60px;
+    margin-left: 70px;
+}
+
+.logo {
+    max-width: 40px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.TextLogo {
+    font-family: "intro_black";
+    color: white;
+    position: absolute;
+    font-weight: 1000;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 65px;
+}
+
+.header_inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_menu_element {
+    margin: 20px;   
+    font-family: "intro_black";    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #818181;
+  } 
+
+.header_menu {
+    margin-left: 600px;
+    margin-top: 25px;
+}
+
+.header_button{
+    font-family: "intro_black";   
+    border-color: white;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    padding: 5px 10px 5px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 25px;
+    position: absolute;
+    text-decoration: none;
+    display:block;
+    width: 120px;
+    text-align:center;
+    margin-left: 1750px;
+    margin-top: 10px;
+}
+
+.line {
+    width: 1896px;
+    height: 3px;
+    margin-left: -7px;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.container1 {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+body {
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 2000px;
+}
+
+.intro_block {
+    margin-top: -40px;
+}
+
+.MOON {
+    margin-top: 471px;
+    margin-left: -8px;
+    position: absolute;
+}
+
+.AboutShop {
+    font-family: "intro_black";
+    font-weight: 1000;
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+    margin-top: 950px;
+    margin-left: 210px;
+    position: absolute;
+}
+
+.AboutShop1 {
+    font-family: "intro_black";
+    font-weight: 1000;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 1060px;
+    margin-left: 140px;
+    position: absolute;
+}
+
+.PC {
+    width: 450px;
+    margin-left: 1100px;
+    margin-top: 150px;
+    position: absolute;
+}
+
+.descrtiption{
+    font-family: "intro_black";
+    border-color: white;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    padding: 5px 10px 5px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 30px;
+    text-decoration: none;
+    width: 210px;
+    text-align:center;
+    margin-left: 1250px;
+    margin-top: 730px;
+    position: absolute;
+}
+
+.Office {
+    width: 800px;
+    margin-top: 970px;
+    margin-left: 1050px;
+    position: absolute;
+}
+
+.about_pcstore {
+    font-family: "Magnum";
+    letter-spacing: 5px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    margin-top: 130px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.about_pcstore_text_description {
+    font-family: "Magnum";
+    letter-spacing: 2px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left: 201px;
+    position: absolute;
+}
+
+.PC1 {
+    width: 350px;
+    margin-left: 200px;
+    margin-top: 1530px;
+    position: absolute;
+}
+
+.AboutCreate{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    margin-top: 1500px;
+    margin-left: 1000px;
+    position: absolute;
+}
+
+.AboutCreate1 {
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-top: 1650px;
+    margin-left: 865px;
+    position: absolute;
+}
+
+.LittleMoon {
+    margin-top: 1719px;
+    margin-left: 1606px;
+    position: absolute;
+}
+
+.WhiteBack {
+    background-color: white;
+    height: 540px;
+    width: 1896px;
+    margin-top: 922px;
+    margin-left: -7px;
+    position: absolute;
+    z-index: -10;
+}
+
+.container2 {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+.Phone{
+    width: 30px;
+    margin-top: 2065px;
+    margin-left: 160px;
+    position: absolute;
+}
+
+.Contacts{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 2065px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.Num{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 2110px;
+    margin-left: 175px;
+    position: absolute;
+}
+
+.TG{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 2140px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.Geo{
+    width: 30px;
+    margin-top: 2065px;
+    margin-left: 880px;
+    position: absolute;
+}
+
+.Adress{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 2065px;
+    margin-left: 910px;
+    position: absolute;
+}
+
+.Street{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 2110px;
+    margin-left: 800px;
+    position: absolute;
+}
+
+.Hands{
+    width: 40px;
+    margin-top: 2065px;
+    margin-left: 1500px;
+    position: absolute;
+}
+
+.Support{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 2065px;
+    margin-left: 1550px;
+    position: absolute;
+}
+
+.Gmail{
+    font-family: "intro_black";
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 2110px;
+    margin-left: 1490px;
+    position: absolute;
+}
+
+.WhiteBack2 {
+    background-color: rgb(255, 255, 255);
+    height: 205px;
+    width: 1896px;
+    margin-top: 2000px;
+    margin-left: -7px;
+    position: absolute;
+    z-index: -10;
+}
+
+@font-face {
+    font-family: "Magnum";
+    src: url(./fonts/AA_Magnum.ttf);
+}
+
+@font-face {
+    font-family: "intro_black";
+    src: url(./fonts/intro_black.ttf);
+}
